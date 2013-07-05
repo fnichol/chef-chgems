@@ -1,6 +1,5 @@
 #!/usr/bin/env bats
 
-@test "chgems appears in PATH" {
-  run which chgems
-  [ $status -eq 0 ]
+@test "chgems will appear in PATH" {
+  [ -x /usr/local/bin/chgems  ]
 }
