@@ -17,6 +17,6 @@
 # limitations under the License.
 #
 
-default['chgems']['version'] = '0.3.1'
+default['chgems']['version'] = '0.3.2'
 default['chgems']['url'] =
   "https://github.com/postmodern/chgems/archive/v#{node['chgems']['version']}.tar.gz"

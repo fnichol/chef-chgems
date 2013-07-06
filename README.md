@@ -120,7 +120,7 @@ This recipe downloads and installs chgems.
 
 The version of chgems to install.
 
-The default is `"0.3.1"`.
+The default is `"0.3.2"`.
 
 ### <a name="attributes-url"></a> url
 
